@@ -1,0 +1,19 @@
+{
+    "name": "me-burgstaller/weihnachten",
+    "description": "A christmas library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MeBurgstaller\\Weihnachten\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Melissa Burgstaller",
+            "email": "melissaburgstaller@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
